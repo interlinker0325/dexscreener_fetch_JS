@@ -1,0 +1,378 @@
+[
+  {
+    "chain": "solana",
+    "symbol": "Netflix",
+    "name": "Netflix Cult ",
+    "priceNative": "0.000001544",
+    "priceUsd": "0.0002353",
+    "volume": 321930.38
+  },
+  {
+    "chain": "solana",
+    "symbol": "Netflix",
+    "name": "Netflix Cult ",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006248",
+    "volume": 13672.64
+  },
+  {
+    "chain": "ethereum",
+    "symbol": "DUCKY",
+    "name": "Ducky Coin",
+    "priceNative": "0.0000001293",
+    "priceUsd": "0.0002331",
+    "volume": 52240.81
+  },
+  {
+    "chain": "solana",
+    "symbol": "TERMINUS",
+    "name": "Terminus AI",
+    "priceNative": "0.000000005832",
+    "priceUsd": "0.0000008885",
+    "volume": 7189.09
+  },
+  {
+    "chain": "solana",
+    "symbol": "loser",
+    "name": "loserface",
+    "priceNative": "0.00000003140",
+    "priceUsd": "0.000004785",
+    "volume": 364982.72
+  },
+  {
+    "chain": "solana",
+    "symbol": "loser",
+    "name": "loserface",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006244",
+    "volume": 65823.13
+  },
+  {
+    "chain": "base",
+    "symbol": "Baby Zora ",
+    "name": "Baby Zora ",
+    "priceNative": "0.00000001958",
+    "priceUsd": "0.00003532",
+    "volume": 26525.08
+  },
+  {
+    "chain": "base",
+    "symbol": "HOA",
+    "name": "Hostage of AI",
+    "priceNative": "0.0000001090",
+    "priceUsd": "0.0001966",
+    "volume": 117309.02
+  },
+  {
+    "chain": "hyperliquid",
+    "symbol": "BUDDY",
+    "name": "BUDDY",
+    "priceNative": "0.009640",
+    "priceUsd": "0.009640",
+    "volume": 205386.26
+  },
+  {
+    "chain": "abstract",
+    "symbol": "CHICK",
+    "name": "Chick Abstract",
+    "priceNative": "1000000000001.000000000000000000000000000000000001000",
+    "priceUsd": "1796500000001796.50",
+    "volume": 21363.82
+  },
+  {
+    "chain": "solana",
+    "symbol": "S",
+    "name": "Cool S",
+    "priceNative": "0.0000004230",
+    "priceUsd": "0.00006447",
+    "volume": 381518.3
+  },
+  {
+    "chain": "solana",
+    "symbol": "S",
+    "name": "Cool S",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006237",
+    "volume": 17115.12
+  },
+  {
+    "chain": "ethereum",
+    "symbol": "KNIGHTIMUS",
+    "name": "Elonius Knightimus",
+    "priceNative": "0.000000004312",
+    "priceUsd": "0.000007775",
+    "volume": 24424.14
+  },
+  {
+    "chain": "solana",
+    "symbol": "poker",
+    "name": "pokerface",
+    "priceNative": "0.000002498",
+    "priceUsd": "0.0003808",
+    "volume": 727663.68
+  },
+  {
+    "chain": "solana",
+    "symbol": "poker",
+    "name": "pokerface",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006215",
+    "volume": 51200
+  },
+  {
+    "chain": "solana",
+    "symbol": "MATZ",
+    "name": "ME AT THE ZOO",
+    "priceNative": "0.00000005874",
+    "priceUsd": "0.000008956",
+    "volume": 143761.47
+  },
+  {
+    "chain": "solana",
+    "symbol": "MATZ",
+    "name": "ME AT THE ZOO",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006255",
+    "volume": 52208.25
+  },
+  {
+    "chain": "solana",
+    "symbol": "opan",
+    "name": "Opanarchy",
+    "priceNative": "0.0000003163",
+    "priceUsd": "0.00004820",
+    "volume": 195152.65
+  },
+  {
+    "chain": "solana",
+    "symbol": "opan",
+    "name": "Opanarchy",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006254",
+    "volume": 33592.62
+  },
+  {
+    "chain": "solana",
+    "symbol": "ELEVATE",
+    "name": "Elevate",
+    "priceNative": "0.000000001270",
+    "priceUsd": "0.0000001931",
+    "volume": 4612.47
+  },
+  {
+    "chain": "solana",
+    "symbol": "MEGUSTA",
+    "name": "Me Gusta",
+    "priceNative": "0.00000003692",
+    "priceUsd": "0.000005628",
+    "volume": 729728.9
+  },
+  {
+    "chain": "solana",
+    "symbol": "MEGUSTA",
+    "name": "Me Gusta",
+    "priceNative": "0.00000003774",
+    "priceUsd": "0.000005753",
+    "volume": 634.64
+  },
+  {
+    "chain": "solana",
+    "symbol": "MEGUSTA",
+    "name": "Me Gusta",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006276",
+    "volume": 89010.99
+  },
+  {
+    "chain": "solana",
+    "symbol": "TOKI",
+    "name": "Tokery New Mascot",
+    "priceNative": "0.0000001445",
+    "priceUsd": "0.00002202",
+    "volume": 245777.19
+  },
+  {
+    "chain": "solana",
+    "symbol": "TOKI",
+    "name": "Tokery New Mascot",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006267",
+    "volume": 120776.75
+  },
+  {
+    "chain": "solana",
+    "symbol": "ABLS",
+    "name": "Animal Bliss",
+    "priceNative": "0.00000002858",
+    "priceUsd": "0.000004350",
+    "volume": 5993.94
+  },
+  {
+    "chain": "solana",
+    "symbol": "ASTRO",
+    "name": "ASTROVEIL",
+    "priceNative": "0.00000002518",
+    "priceUsd": "0.000003846",
+    "volume": 764532.06
+  },
+  {
+    "chain": "solana",
+    "symbol": "ASTRO",
+    "name": "ASTROVEIL",
+    "priceNative": "0.0000001548",
+    "priceUsd": "0.00002356",
+    "volume": 264.79
+  },
+  {
+    "chain": "solana",
+    "symbol": "ASTRO",
+    "name": "ASTROVEIL",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006270",
+    "volume": 25635.79
+  },
+  {
+    "chain": "base",
+    "symbol": "DATBOI",
+    "name": "Dat Boi",
+    "priceNative": "0.000000003242",
+    "priceUsd": "0.000005825",
+    "volume": 164385.73
+  },
+  {
+    "chain": "ethereum",
+    "symbol": "LIDEX",
+    "name": "Lidex",
+    "priceNative": "0.000000003787",
+    "priceUsd": "0.000006763",
+    "volume": 2864.71
+  },
+  {
+    "chain": "solana",
+    "symbol": "EK",
+    "name": "Elonius Knightimus",
+    "priceNative": "0.00000003403",
+    "priceUsd": "0.000005197",
+    "volume": 1635206.62
+  },
+  {
+    "chain": "solana",
+    "symbol": "EK",
+    "name": "Elonius Knightimus",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006254",
+    "volume": 14005.19
+  },
+  {
+    "chain": "solana",
+    "symbol": "UWF",
+    "name": "Urchin Wif Hat",
+    "priceNative": "0.0000002670",
+    "priceUsd": "0.00004071",
+    "volume": 1123894.46
+  },
+  {
+    "chain": "solana",
+    "symbol": "UWF",
+    "name": "Urchin Wif Hat",
+    "priceNative": "0.0000002828",
+    "priceUsd": "0.00004312",
+    "volume": 4629.17
+  },
+  {
+    "chain": "solana",
+    "symbol": "UWF",
+    "name": "Urchin Wif Hat",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006254",
+    "volume": 120137.05
+  },
+  {
+    "chain": "bsc",
+    "symbol": "BIRDIE",
+    "name": "Birdie the Early Bird",
+    "priceNative": "0.0000002719",
+    "priceUsd": "0.0001661",
+    "volume": 145768.08
+  },
+  {
+    "chain": "solana",
+    "symbol": "🧌",
+    "name": "troll emoji",
+    "priceNative": "0.0000003226",
+    "priceUsd": "0.00004918",
+    "volume": 85732.55
+  },
+  {
+    "chain": "solana",
+    "symbol": "MCAD",
+    "name": "Mars, Cars and DOGE",
+    "priceNative": "0.00000002909",
+    "priceUsd": "0.000004440",
+    "volume": 305312.47
+  },
+  {
+    "chain": "solana",
+    "symbol": "MCAD",
+    "name": "Mars, Cars and DOGE",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006235",
+    "volume": 65673.52
+  },
+  {
+    "chain": "unichain",
+    "symbol": "HOOF",
+    "name": "Hooffather",
+    "priceNative": "0.0000000009912",
+    "priceUsd": "0.000001787",
+    "volume": 25896.57
+  },
+  {
+    "chain": "unichain",
+    "symbol": "HOOF",
+    "name": "Hooffather",
+    "priceNative": "0.0000000009844",
+    "priceUsd": "0.000001777",
+    "volume": 487.79
+  },
+  {
+    "chain": "base",
+    "symbol": "From Zero to Zora",
+    "name": "From Zero to Zora",
+    "priceNative": "0.00000005767",
+    "priceUsd": "0.0001040",
+    "volume": 243148.11
+  },
+  {
+    "chain": "ethereum",
+    "symbol": "YOU",
+    "name": "Ethereum is for you",
+    "priceNative": "0.00000000001496",
+    "priceUsd": "0.00000002688",
+    "volume": 47335.53
+  },
+  {
+    "chain": "ethereum",
+    "symbol": "GROKLET",
+    "name": "Groklet",
+    "priceNative": "0.00000000006816",
+    "priceUsd": "0.0000001222",
+    "volume": 315948.94
+  },
+  {
+    "chain": "solana",
+    "symbol": "Rushroom",
+    "name": "Runner Of The Day",
+    "priceNative": "0.00000004768",
+    "priceUsd": "0.000007267",
+    "volume": 546974.3
+  },
+  {
+    "chain": "solana",
+    "symbol": "Rushroom",
+    "name": "Runner Of The Day",
+    "priceNative": "0.0000004108",
+    "priceUsd": "0.00006204",
+    "volume": 92089.1
+  }
+]
